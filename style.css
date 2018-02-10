@@ -1,0 +1,31 @@
+/*
+Primary:#ff1744; 
+padding: light #ff616f;
+p-dark #c4001d;
+Secondary:#76ff03;
+s: light #b0ff57;
+s-Dark:#32cb00;
+*/
+body{
+ background-color: #ff1744;
+}
+h1,
+h2,
+{ 
+    text-align: center;
+    font-family: font-family: 'Rammetto One', cursive;  
+}
+h1{
+    font-size: 72px;
+}
+li{
+    display:inline-block;
+}
+/* header */
+header li{
+margin: 10px
+}
+/* header */
+footer a{font-size: 30
+
+}
