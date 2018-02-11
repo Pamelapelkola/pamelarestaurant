@@ -14,18 +14,29 @@ h2,
 { 
     text-align: center;
     font-family: font-family: 'Rammetto One', cursive;  
+    color: #32cb00;
 }
 h1{
     font-size: 72px;
+    color:#32cb00;
 }
 li{
     display:inline-block;
 }
+a{
+    font-size: 36px;
+    color: #32cb00;
+}
+
 /* header */
 header li{
-margin: 10px
+margin: 0 10px;
 }
-/* header */
-footer a{font-size: 30
 
+header li:first-of-type{
+    margin-left: 0;
+}
+
+/* footer styles */
+footer a{font-size: 64px;
 }
